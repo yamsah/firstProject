@@ -1,0 +1,21 @@
+.one{
+
+	background-color: pink;
+	}
+    .navigator {
+  overflow: hidden;
+  background-color: grey;
+}
+.navigator a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navigator a:hover {
+  background-color: blue;
+  color: black;
+}
